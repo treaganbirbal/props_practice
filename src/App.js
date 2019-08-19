@@ -14,7 +14,7 @@ class App extends React.Component {
   return (
     <div className="App">
       
-        <Post allPosts={ allPosts } />
+        <Feed allPosts={ allPosts } />
       
     </div>
   );
